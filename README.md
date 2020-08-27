@@ -3,4 +3,4 @@ First repository
 
 Hi Humans!!!
 Vinaykumar here, I like Python and Java.
-I am pursuing my Btech. CS. 
+I am pursuing Btech. in ComputerScience. 
